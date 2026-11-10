@@ -1,0 +1,9 @@
+TUGAS PRAKTIK GIT GUI
+
+Nama aplikasi: GitHub Desktop
+Platform repository: GitHub
+
+Tujuan:
+Mempelajari penggunaan Git GUI untuk
+membuat repository, mengelola perubahan
+file, melakukan commit, dan push ke GitHub.
